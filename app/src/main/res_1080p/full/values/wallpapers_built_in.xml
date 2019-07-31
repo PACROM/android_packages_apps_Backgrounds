@@ -26,6 +26,8 @@
         <item>@drawable/space_riseup</item>
         <item>@drawable/urban_dayroad</item>
         <item>@drawable/urban_nightroad</item>
+        <item>@drawable/PAC_GAME</item>
+        <item>@drawable/PAC_NEW</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
@@ -39,5 +41,7 @@
         <item>@string/wallpaper_built_in_riseup</item>
         <item>@string/wallpaper_built_in_dayroad</item>
         <item>@string/wallpaper_built_in_nightroad</item>
+        <item>@string/wallpaper_built_in_PAC_NEW</item>
+        <item>@string/wallpaper_built_in_PAC_GAME</item>
     </string-array>
 </resources>
