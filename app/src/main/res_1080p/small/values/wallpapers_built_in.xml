@@ -21,6 +21,8 @@
         <item>@drawable/nature_nebula</item>
         <item>@drawable/nature_night</item>
         <item>@drawable/urban_dayroad</item>
+        <item>@drawable/PAC_GAME</item>
+        <item>@drawable/PAC_NEW</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
@@ -30,5 +32,7 @@
         <item>@string/wallpaper_built_in_night</item>
         <item>@string/wallpaper_built_in_sea</item>
         <item>@string/wallpaper_built_in_dayroad</item>
+        <item>@string/wallpaper_built_in_PAC_NEW</item>
+        <item>@string/wallpaper_built_in_PAC_GAME</item>
     </string-array>
 </resources>
